@@ -1,6 +1,6 @@
 console.log("Dime Si tines hambre y te dire como te sientes");
 
-var  tenerHambre = false;
+var  tenerHambre = true;
 
 if(tenerHambre){
     console.log("Estas Triste :(")
